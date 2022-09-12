@@ -1,0 +1,21 @@
+{
+  "appTitle": " ﷺ مجلس الصلاة على النبي ﷺ",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "@welcomToApp": {
+    "description": "The title of the application"
+  },
+  "welcomToApp": "مرحبا بكم في مجلس الصلاة على النبي محمد ﷺ ",
+  "pageNotFound": "الصفحة غير موجودة",
+  "goHome": "صفحة البداية",
+  "anErrorOccurred": "حدث خطأ ما",
+  "azkarPage": "صفحة الاذكار",
+  "mainPage": "الصفحة الرئيسية",
+  "homePage": "صفحة البداية",
+  "settingPage": "صفحة الاعدادات",
+  "settingsMenuItem": "الاعدادات",
+  "aboutUsMenuItem": "من نحن",
+  "homeMenuItem": "الرئيسية",
+  "favioriteMenuItem": "المفضلة"
+}

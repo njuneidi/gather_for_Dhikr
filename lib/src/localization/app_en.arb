@@ -1,0 +1,21 @@
+{
+  "appTitle": "Gathering for pray for prophet Mohammad",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "@welcomToApp": {
+    "description": "The title of the application"
+  },
+  "welcomToApp": "Wًelcom to the gathering for pray for prophet Mohammad Peace Be Upon Him",
+  "pageNotFound": "Page not Found",
+  "goHome": "Home Page",
+  "anErrorOccurred": "An Error Ocured",
+  "azkarPage": "Azkar Page",
+  "mainPage": "mainPage",
+  "homePage": "Home Page",
+  "settingPage": "Settings Page",
+  "settingsMenuItem": "Settings",
+  "aboutUsMenuItem": "About Us",
+  "homeMenuItem": "Home",
+  "favioriteMenuItem": "Favorite"
+}
