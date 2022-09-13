@@ -26,7 +26,7 @@ class MainScreen extends ConsumerWidget {
     return Scaffold(
       //key: context.read<MenuController>().scaffoldKey,
       appBar: AppHeaderBar(
-        title: Text(context.loc.appTitle),
+        title: Text(context.loc.appTitle, overflow: TextOverflow.clip,),
       ),
 
       drawer: Responsive.isDesktop(context) == false ? SideMenu() : null,
